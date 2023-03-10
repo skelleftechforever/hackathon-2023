@@ -1,4 +1,6 @@
 ## Hackathon 2023
+> **Important Update: We couldn't find enough people on time to organize the Hackathon in March. For the time being, the hackathon is postponed until further notice.**
+
 We are pleased to announced that this year's Hackathon is a go!
 
 The hackathon starts on a Saturday at 10:00 CET and ends the following Sunday at 17:00 CET.
